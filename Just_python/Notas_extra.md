@@ -1,5 +1,4 @@
 # Linea de comandos, notebooks, github, ....
-=========================================================================
 
 1. **.py** son archivos de python
 2. **.ipynb** son notebooks
